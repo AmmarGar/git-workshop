@@ -1,7 +1,7 @@
 # names.py: A simple script to print participant names.
 # Participants will add their names to the list below in their branches.
 
-names = ["ammar"]
+names = []
 
 def print_names():
     if names:
